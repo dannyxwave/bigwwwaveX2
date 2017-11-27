@@ -1,0 +1,22 @@
+/*humanstxt.org*/
+/*The humans responsible & technology colophon*/
+
+/* TEAM */    
+    Web developer, designer, idea: Dan Isak Weisser
+    Instagram: @danny.wave
+    Location: Norway
+
+/*THANKS*/
+    Daniel Erland
+
+/*SITE*/
+Site Name: Bigwwwave webbyrå | webagency
+Site URL: http://www.bigwwwave.com/
+Language: English
+G+: https://plus.google.com/+Bigwwwave
+
+/*TECHNOLOGY COLOPHON*/
+
+    CSS3, HTML5
+    Apache Server Configs, Animate.css, Modernizr, Normalize.css
+
